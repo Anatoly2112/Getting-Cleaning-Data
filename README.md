@@ -9,3 +9,12 @@ This folder is a submission of the Course Project on Coursera's "Getting and Cle
 -- CodeBook: description of variables and script
 
 -- ReadMe.md
+
+# run_analysis.R description
+
+Script:
+
+	1. Gets data from Samsung folder.
+	2. Creates 1 data set including all subjects, all activities and all variables from test and train sets.
+	3. Choose appropriate variables from general data set and creates data set "clear".
+	4. Creates data set with the average of each variable for each activity and each subject  and writes this data into "Data.txt".
