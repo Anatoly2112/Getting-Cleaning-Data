@@ -76,7 +76,9 @@ tBodyGyromeanZ
 
 tBodyGyroJerkmeanX
 
-tBodyGyroJerkmeanY  tBodyGyroJerkmeanZ
+tBodyGyroJerkmeanY 
+
+tBodyGyroJerkmeanZ
 
 tBodyAccMagmean
 
